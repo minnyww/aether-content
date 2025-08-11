@@ -1,4 +1,17 @@
 {
   "backerAmount" : 658,
-  "wishListAmount" : 3500
+  "wishListAmount" : 3500,
+  "teams" : [{
+    "name" : "shin1",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/vondergame.firebasestorage.app/o/team4.jpg?alt=media&token=1e153e50-2f52-4b32-8223-76e3f2e24fa4"
+  },{
+    "name" : "shin2",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/vondergame.firebasestorage.app/o/team3.jpg?alt=media&token=c43a5a74-d5d5-4c54-9405-f8b47b8a322b"
+  },{
+    "name" : "shin3",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/vondergame.firebasestorage.app/o/team2.jpg?alt=media&token=4f02594c-ca5a-4b3d-a919-c8d50774a239"
+  },{
+    "name" : "shin4",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/vondergame.firebasestorage.app/o/team1.jpg?alt=media&token=de59b0ed-1afa-4562-88b2-0d1214409900"
+  }]
 }
